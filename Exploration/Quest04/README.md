@@ -52,3 +52,5 @@ h, w    = cat_small_bgra.shape[:2]
 x_offset = int(W*PLACEX - w*1.5)
 y_offset = int(H*PLACEY - h*3)
 ```
+
+- 풀리퀘스트를 진행합니다
